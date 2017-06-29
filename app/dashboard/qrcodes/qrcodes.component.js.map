@@ -1,0 +1,1 @@
+{"version":3,"file":"qrcodes.component.js","sourceRoot":"","sources":["qrcodes.component.ts"],"names":[],"mappings":";;;;;;;;;;AAAA,qBAAkC,eAAe,CAAC,CAAA;AAQlD;IAAA;IAGA,CAAC;IAFG,mCAAQ,GAAR;IACA,CAAC;IARL;QAAC,gBAAS,CAAC;YACP,QAAQ,EAAE,YAAY;YACtB,QAAQ,EAAE,MAAM,CAAC,EAAE;YACnB,WAAW,EAAE,wBAAwB;SACxC,CAAC;;wBAAA;IAKF,uBAAC;AAAD,CAAC,AAHD,IAGC;AAHY,wBAAgB,mBAG5B,CAAA"}
